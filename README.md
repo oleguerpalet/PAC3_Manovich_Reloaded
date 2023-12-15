@@ -49,6 +49,7 @@ Un dels aspectes més vius del webdoc és les peculiaritats del mateix medi, afa
 El documental interactiu no es pot analitzar de forma única composta de fotogrames; en els mitjans interactius hi ha noves variables: codi, interfícies, algoritmes i un usuari actiu. Aquestes variables estan connectades de tal forma que s'influeixen entre si. El webdoc és, per tant, una forma fluida, no fixa. És el resultat d'interconnexions que són dinàmiques, en temps real i adaptatives. (Research).
 
 ## Re-descobrint la hibridació: The Biodigital Human
+![Biodigital Human](https://d8m06gjwz59rp.cloudfront.net/assets/biodigital-multi-device.png)
 
 ### Què és?
 

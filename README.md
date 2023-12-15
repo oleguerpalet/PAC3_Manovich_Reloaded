@@ -59,19 +59,15 @@ Els usuaris poden personalitzar la seva experiència creant biblioteques persona
 
 ### Reconeixent la hibridació de medis
 
-Es pot observar la hibridació on a la combinació de diferents tecnologies permet crear una experiència web interactiva i visualment impressionant. En aquest cas, renderitzant gràfics 3D en temps real en un navegador web sense necessitat de complements addicionals. En combinar gràfics 3D amb llenguatges de programació web com JavaScript, HTML i CSS dona com ha resultat una experiència web més immersiva i sofisticada.
+Es pot observar la hibridació on a la combinació de diferents tecnologies permet crear una experiència web interactiva i visualment impressionant. En aquest cas, renderitzant gràfics 3D en temps real en un navegador web sense necessitat de complements addicionals. En combina gràfics 3D amb llenguatges de programació web com JavaScript, HTML i CSS dona com ha resultat una experiència web més immersiva i sofisticada.
 
-En el llibre "El software toma el mando", Manovich menciona que els gràfics computacionals i l'animació 3D interactiva són mitjans nascuts en l'era digital dels anys 60 i consolidats en els anys 90. Això indica que Manovich reconeix la importància dels gràfics 3D com una forma d'expressió i comunicació en l'àmbit digital.
+En el llibre "El software toma el mando", Manovich menciona que els gràfics computacionals i l'animació 3D interactiva són mitjans nascuts en l'era digital dels anys 60 i consolidats en els anys 90. Això indica que Manovich reconeix la importància dels gràfics 3D com una forma d'expressió i comunicació en l'àmbit digital (Manovich, 2013).
 
-A més a més, menciona la visualització de dades en 3D com una eina que permet observar un objecte des de qualsevol punt de vista per comprendre la seva estructura. D'aquesta manera Manovich considera que els gràfics 3D poden ser utilitzats per representar i analitzar informació de manera visualment atractiva i comprensible.
-
-Per altra banda, la programació web és un element clau en l'evolució dels nous mitjans de comunicació i la cultura contemporània. (Manovich)
+A més a més, menciona la visualització de dades en 3D com una eina que permet observar un objecte des de qualsevol punt de vista per comprendre la seva estructura. D'aquesta manera Manovich considera que els gràfics 3D poden ser utilitzats per representar i analitzar informació de manera visualment atractiva i comprensible. Per altra banda, la programació web és un element clau en l'evolució dels nous mitjans de comunicació i la cultura contemporània. (Manovich, 2013).
 
  > El nou medi és el "metamedi" de l'ordinador digital, cosa que indica que la programació web i el software són fonamentals per la creació i funcionament dels nous medis.
 
-En relació amb la programació web, Manovich menciona la modularitat com un principi important. Els nous medis estan compostos per elements que es poden aïllar i cada part conserva la seva identitat individual.
-
-També destaca l'automatització com un altre aspecte rellevant de la programació web. L'automatització permet realitzar operacions de manera ràpida i organitzada en la creació, manipulació i accés als nous medis.
+En relació amb la programació web, la modularitat és un principi important. Els nous medis estan compostos per elements que es poden aïllar i cada part conserva la seva identitat individual. També, l'automatització és un altre aspecte rellevant de la programació web. L'automatització permet realitzar operacions de manera ràpida i organitzada en la creació, manipulació i accés als nous medis (Manovich, 2013).
 
 Els resultats dels processos de la hibridació són una nova estètica i una nova espècie de mitjà que no pot reduir-se a la suma dels mitjans que han intervingut en la seva creació. És el pas cap a una nova constitució dels medis que realment és molt més radical i revolucionària que la cohabitació de diferents tipus de medis. (pdf)
 La hibridació dels medis és un procés que "amenaça" la constitució de cada un dels elements per separat, la web no s'entén igual des de que podem manipular-la més enllà de presentar textos i imatges, així com la interactivitat en la visualització de dades.

@@ -21,7 +21,9 @@ La tecnologia digital ha remeiat els mitjans de comunicació antics, des dels pr
 
 En la multimèdia, es fa referència a la combinació de diferents elements, com text, àudio, vídeo on conviuen de forma conjunta en una presentació interactiva. Normalment, se situen en un pla bidimensional com per exemple la típica pàgina web amb text, un vídeo i algunes imatges. En aquest cas, l'experiència d'usuari és fragmentada. Si es vol llegir el text, no es pot veure el vídeo al mateix temps, ni observar les imatges. (Wikipedia, Adell)
 
+
 > Per tal de reconèixer una hibridació s'ha d'identificar un mitjà ja sigui text, hipertext, fotografies, vídeo digital, animació en 2D i 3D, espais navegables en 3D, mapes, informació de localització, etc. que ha passat a funcionar com a component d'altres noves combinacions de mitjans. (Manovich, Software Takes Command)
+
 
 En els mitjans híbrids, les interfícies, les tècniques i les formes i tradicions dels mitjans s'uneixen i donen com a resultat una nova Gestalt de mitjans. Això significa que es fusionen per oferir una experiència, diferent de la que es viu amb elements separats.(Software takes command) pdf
 

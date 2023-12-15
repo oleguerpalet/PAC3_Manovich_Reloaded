@@ -46,4 +46,28 @@ Un dels aspectes més vius del webdoc és les peculiaritats del mateix medi, afa
 
 El documental interactiu no es pot analitzar de forma única composta de fotogrames; en els mitjans interactius hi ha noves variables: codi, interfícies, algoritmes i un usuari actiu. Aquestes variables estan connectades de tal forma que s'influeixen entre si. El webdoc és, per tant, una forma fluida, no fixa. És el resultat d'interconnexions que són dinàmiques, en temps real i adaptatives. (Research).
 
+## Re-descobrint la hibridació: The Biodigital Human
+
+The Biodigital Human és una plataforma interactiva en 3D que permet explorar detalladament el cos humà, incloent l'anatomia, malalties i tractaments. És utilitzat per estudiants, professionals de la salut i educadors per comprendre millor la salut i el funcionament del cos humà.
+
+La plataforma compta amb més de 1000 models anatòmics en 3D que es poden explorar i manipular per comprendre millor l'estructura i el funcionament del cos humà. A més a més, també ofereix models en 3D de malalties i tractaments, la qual cosa permet visualitzar i comprendre millor diverses condicions de salut.
+
+Els usuaris poden personalitzar la seva experiència creant biblioteques personalitzades de models 3D i visualitzacions interactives, el que facilita l'aprenentatge específic de temes d'interès. És usat en institucions mèdiques, escoles de medicina, empreses farmacèutiques i dispositius mèdics, entre d'altres.
+
+Es pot observar la hibridació on a la combinació de diferents tecnologies permet crear una experiència web interactiva i visualment impressionant. En aquest cas, renderitzant gràfics 3D en temps real en un navegador web sense necessitat de complements addicionals. En combinar gràfics 3D amb llenguatges de programació web com JavaScript, HTML i CSS dona com ha resultat una experiència web més immersiva i sofisticada.
+
+En el llibre "El software toma el mando", Manovich menciona que els gràfics computacionals i l'animació 3D interactiva són mitjans nascuts en l'era digital dels anys 60 i consolidats en els anys 90. Això indica que Manovich reconeix la importància dels gràfics 3D com una forma d'expressió i comunicació en l'àmbit digital.
+
+A més a més, menciona la visualització de dades en 3D com una eina que permet observar un objecte des de qualsevol punt de vista per comprendre la seva estructura. D'aquesta manera Manovich considera que els gràfics 3D poden ser utilitzats per representar i analitzar informació de manera visualment atractiva i comprensible.
+
+Per altra banda, la programació web és un element clau en l'evolució dels nous mitjans de comunicació i la cultura contemporània. (Manovich)
+
+Manovich menciona que el nou medi és el "metamedi" de l'ordinador digital, cosa que indica que la programació web i el software són fonamentals per la creació i funcionament dels nous medis.
+
+En relació amb la programació web, Manovich menciona la modularitat com un principi important. Els nous medis estan compostos per elements que es poden aïllar i cada part conserva la seva identitat individual.
+
+També destaca l'automatització com un altre aspecte rellevant de la programació web. L'automatització permet realitzar operacions de manera ràpida i organitzada en la creació, manipulació i accés als nous medis.
+
+Els resultats dels processos de la hibridació són una nova estètica i una nova espècie de mitjà que no pot reduir-se a la suma dels mitjans que han intervingut en la seva creació. És el pas cap a una nova constitució dels medis que realment és molt més radical i revolucionària que la cohabitació de diferents tipus de medis. (pdf)
+La hibridació dels medis és un procés que "amenaça" la constitució de cada un dels elements per separat, la web no s'entén igual des de que podem manipular-la més enllà de presentar textos i imatges, així com la interactivitat en la visualització de dades.
 

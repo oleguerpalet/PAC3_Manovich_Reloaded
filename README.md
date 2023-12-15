@@ -67,7 +67,7 @@ A més a més, menciona la visualització de dades en 3D com una eina que permet
 
 Per altra banda, la programació web és un element clau en l'evolució dels nous mitjans de comunicació i la cultura contemporània. (Manovich)
 
-Manovich menciona que el nou medi és el "metamedi" de l'ordinador digital, cosa que indica que la programació web i el software són fonamentals per la creació i funcionament dels nous medis.
+ > El nou medi és el "metamedi" de l'ordinador digital, cosa que indica que la programació web i el software són fonamentals per la creació i funcionament dels nous medis.
 
 En relació amb la programació web, Manovich menciona la modularitat com un principi important. Els nous medis estan compostos per elements que es poden aïllar i cada part conserva la seva identitat individual.
 

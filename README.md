@@ -32,6 +32,8 @@ Per exemple un vídeo de Youtube, l'experiència és una, on els elements compar
 
 ## Re-descobrint la hibridació: En la brecha
 
+![En la brecha](https://lab.rtve.es/webdocs/brecha/img/social/home.jpg)
+
 ### Què és?
 
 És un documental interactiu que aborda la desigualtat de gènere en l'àmbit laboral, centrant-se "en la brecha" salarial entre homes i dones. A través dels testimonis de set dones, el webdoc mostra el dia a dia d'aquestes dones i la seva experiència en la feina, destacant les dificultats i desafiaments que enfronten a causa de la discriminació de gènere. El projecte no es limita a mostrar aquests set casos, sinó que també ofereix a altres dones la possibilitat de participar, aportant a través de la web les seves pròpies vivències i opinions- gravades per elles mateixes, amb un mòbil o una webcam.

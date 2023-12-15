@@ -32,6 +32,8 @@ Per exemple un vídeo de Youtube, l'experiència és una, on els elements compar
 
 ## Re-descobrint la hibridació: En la brecha
 
+### Què és?
+
 És un documental interactiu que aborda la desigualtat de gènere en l'àmbit laboral, centrant-se "en la brecha" salarial entre homes i dones. A través dels testimonis de set dones, el webdoc mostra el dia a dia d'aquestes dones i la seva experiència en la feina, destacant les dificultats i desafiaments que enfronten a causa de la discriminació de gènere. El projecte no es limita a mostrar aquests set casos, sinó que també ofereix a altres dones la possibilitat de participar, aportant a través de la web les seves pròpies vivències i opinions- gravades per elles mateixes, amb un mòbil o una webcam.
 
 El documental és una representació audiovisual de la realitat fent que els espectadors arribin a unes conclusions crítiques. El webdoc, com herència digital dels documentals cinematogràfics i televisius tradicionals, també manté aquesta essència de crítica, però amb l'element afegit de l'interactivitat, la hipertextualitat i la possibilitat de participació del públic, cosa que contribueix a enriquir el discurs i amplificar la seva difusió.
@@ -48,9 +50,13 @@ El documental interactiu no es pot analitzar de forma única composta de fotogra
 
 ## Re-descobrint la hibridació: The Biodigital Human
 
+### Què és?
+
 The Biodigital Human és una plataforma interactiva en 3D que permet explorar detalladament el cos humà, incloent l'anatomia, malalties i tractaments. És utilitzat per estudiants, professionals de la salut i educadors per comprendre millor la salut i el funcionament del cos humà. La plataforma compta amb més de 1000 models anatòmics en 3D que es poden explorar i manipular per comprendre millor l'estructura i el funcionament del cos humà. A més a més, també ofereix models en 3D de malalties i tractaments, la qual cosa permet visualitzar i comprendre millor diverses condicions de salut.
 
 Els usuaris poden personalitzar la seva experiència creant biblioteques personalitzades de models 3D i visualitzacions interactives, el que facilita l'aprenentatge específic de temes d'interès. És usat en institucions mèdiques, escoles de medicina, empreses farmacèutiques i dispositius mèdics, entre d'altres.
+
+### Reconeixent la hibridació de medis
 
 Es pot observar la hibridació on a la combinació de diferents tecnologies permet crear una experiència web interactiva i visualment impressionant. En aquest cas, renderitzant gràfics 3D en temps real en un navegador web sense necessitat de complements addicionals. En combinar gràfics 3D amb llenguatges de programació web com JavaScript, HTML i CSS dona com ha resultat una experiència web més immersiva i sofisticada.
 

@@ -48,9 +48,7 @@ El documental interactiu no es pot analitzar de forma única composta de fotogra
 
 ## Re-descobrint la hibridació: The Biodigital Human
 
-The Biodigital Human és una plataforma interactiva en 3D que permet explorar detalladament el cos humà, incloent l'anatomia, malalties i tractaments. És utilitzat per estudiants, professionals de la salut i educadors per comprendre millor la salut i el funcionament del cos humà.
-
-La plataforma compta amb més de 1000 models anatòmics en 3D que es poden explorar i manipular per comprendre millor l'estructura i el funcionament del cos humà. A més a més, també ofereix models en 3D de malalties i tractaments, la qual cosa permet visualitzar i comprendre millor diverses condicions de salut.
+The Biodigital Human és una plataforma interactiva en 3D que permet explorar detalladament el cos humà, incloent l'anatomia, malalties i tractaments. És utilitzat per estudiants, professionals de la salut i educadors per comprendre millor la salut i el funcionament del cos humà. La plataforma compta amb més de 1000 models anatòmics en 3D que es poden explorar i manipular per comprendre millor l'estructura i el funcionament del cos humà. A més a més, també ofereix models en 3D de malalties i tractaments, la qual cosa permet visualitzar i comprendre millor diverses condicions de salut.
 
 Els usuaris poden personalitzar la seva experiència creant biblioteques personalitzades de models 3D i visualitzacions interactives, el que facilita l'aprenentatge específic de temes d'interès. És usat en institucions mèdiques, escoles de medicina, empreses farmacèutiques i dispositius mèdics, entre d'altres.
 

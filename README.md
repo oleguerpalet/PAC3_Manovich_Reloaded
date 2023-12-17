@@ -48,7 +48,7 @@ Gifreu apunta a una doble hibridació com la responsable de l'aparició del webd
 
 El webdoc s'ha alçat com el nou referent en l'àmbit del documental interactiu, caracteritzat per ser una plataforma oberta i accessible en la xarxa, amb un disseny d'interfície on la presentació visual es troba a mig camí entre el videojoc i una pàgina web, on el gènere documental aporta les seves variades modalitats de representació de la realitat, i el mitjà digital, les modalitats de navegació (Gifreu-Castells, 2014)
 
-Un dels aspectes més vius del webdoc és les peculiaritats del mateix medi, afavorint l'expansió del relat a través de formats diversos que van des del vídeo, la fotografia o l'audio fins a la il·lustració, el disseny gràfic o la literatura. (Jenkins, 2003). Precisament, la diversitat de continguts és la que permet a l'usuari decidir l'ordre del relat durant el visionament i escollir el grau de profunditat en l'assumpte segons els seus propis interessos, provocant una experiència més variada, completa i immersiva que els documentals tradicionals.
+Un dels aspectes més vius del webdoc és les peculiaritats del mateix medi, afavorint l'expansió del relat a través de formats diversos que van des del vídeo, la fotografia o l'audio fins a la il·lustració, el disseny gràfic o la literatura. Precisament, la diversitat de continguts és la que permet a l'usuari decidir l'ordre del relat durant el visionament i escollir el grau de profunditat en l'assumpte segons els seus propis interessos, provocant una experiència més variada, completa i immersiva que els documentals tradicionals (Jenkins, 2003).
 
 El documental interactiu no es pot analitzar de forma única composta de fotogrames; en els mitjans interactius hi ha noves variables: codi, interfícies, algoritmes i un usuari actiu. Aquestes variables estan connectades de tal forma que s'influeixen entre si. El webdoc és, per tant, una forma fluida, no fixa. És el resultat d'interconnexions que són dinàmiques, en temps real i adaptatives. (Research).
 
@@ -84,6 +84,13 @@ Adell, F. (2014). Remediación, multimedia e hibridación de los medios. Recuper
 
 Manovich, Lev (2013). El software toma el mando. New York: Bloomsburry Academic.
 
-Wikipedia (2023). Nuevos medios. Recuperat de: https://es.wikipedia.org/wiki/Nuevos_medios
+Gifreu-Castells, A. (2014). El documental interactivo. Evolución, caracterización y perspectiva de desarrollo. UOC.
+
+Jennkins (2013). Transmedia. La creación de contenido y valor en una cultura en red. Revista estudios de polílitcias públicas. Recuperat de: https://revistaestudiospoliticaspublicas.uchile.cl/index.php/REPP/article/view/55358
 
 Jódar Marín, J., De la Torre Espinosa, M. (2023). Diseño, realización y postproducción de webdoc. Revista Mediterránea de Comunicación (RMC). Recuperat de: https://rua.ua.es/dspace/bitstream/10045/135617/1/ReMedCom_14_02_10_ES.pdf
+
+Wikipedia (2023). Nuevos medios. Recuperat de: https://es.wikipedia.org/wiki/Nuevos_medios
+
+Pimentel Guimarães, L., Costa Valente, A. (2023) WEBDOCUMENTAL: UN ESPACIO AUDIOVISUAL DE NARRATIVAS INTERACTIVAS. Recuperat de: https://www.researchgate.net/publication/375700815_WEBDOCUMENTAL_UN_ESPACIO_AUDIOVISUAL_DE_NARRATIVAS_INTERACTIVAS
+

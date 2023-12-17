@@ -33,6 +33,7 @@ Per exemple un vídeo de **Youtube**, l'experiència és una, on els elements co
 ## Re-descobrint la hibridació: En la brecha
 
 ![En la brecha](https://lab.rtve.es/webdocs/brecha/img/social/home.jpg)
+[En la brecha](https://lab.rtve.es/webdocs/brecha/home/)
 
 ### Què és?
 

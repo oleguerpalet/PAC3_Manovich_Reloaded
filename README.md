@@ -5,7 +5,7 @@ Autor: Oleguer Palet Farrés
 
 Data: 15/12/2013
 
-![Cultura Digital]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://img.freepik.com/premium-photo/abstract-highly-detailed-background-with-human-creativity-imagination_1004780-1237.jpg))
+![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://img.freepik.com/premium-photo/abstract-highly-detailed-background-with-human-creativity-imagination_1004780-1237.jpg))
 
 
 ## Plantejament

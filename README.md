@@ -19,13 +19,13 @@ En definitiva, la hibridació és un procés de fusió dels mitjans, una fusió 
 
 La tecnologia digital ha remeiat els mitjans de comunicació antics, des dels processos d'impressió, fins a la comunicació telegràfica. Una web és una remediació del diari en paper, un vídeo digital una remediació del cine i al mateix temps que ho és d'aquest també ho és del teatre, etc. (Adell, 2014).
 
-En la multimèdia, es fa referència a la combinació de diferents elements, com text, àudio, vídeo on conviuen de forma conjunta en una presentació interactiva. Normalment, se situen en un pla bidimensional com per exemple la típica pàgina web amb text, un vídeo i algunes imatges. En aquest cas, l'experiència d'usuari és fragmentada. Si es vol llegir el text, no es pot veure el vídeo al mateix temps, ni observar les imatges. (Wikipedia, Adell)
+En la multimèdia, es fa referència a la **combinació** de diferents elements, com text, àudio, vídeo on conviuen de forma conjunta en una presentació interactiva. Normalment, se situen en un pla bidimensional com per exemple la típica pàgina web amb text, un vídeo i algunes imatges. En aquest cas, l'experiència d'usuari és fragmentada. Si es vol llegir el text, no es pot veure el vídeo al mateix temps, ni observar les imatges. (Wikipedia, Adell).
 
 
-> Per tal de reconèixer una hibridació s'ha d'identificar un mitjà ja sigui text, hipertext, fotografies, vídeo digital, animació en 2D i 3D, espais navegables en 3D, mapes, informació de localització, etc. que ha passat a funcionar com a component d'altres noves combinacions de mitjans (Manovich, 2013).
+> Per tal de reconèixer una **hibridació** s'ha d'identificar un mitjà ja sigui text, hipertext, fotografies, vídeo digital, animació en 2D i 3D, espais navegables en 3D, mapes, informació de localització, etc. que ha passat a funcionar com a component d'altres noves combinacions de mitjans (Manovich, 2013).
 
 
-En els mitjans híbrids, les interfícies, les tècniques i les formes i tradicions dels mitjans s'uneixen i donen com a resultat una nova Gestalt de mitjans. Això significa que es fusionen per oferir una experiència, diferent de la que es viu amb elements separats (Manovich, 2013).
+En els mitjans híbrids, les interfícies, les tècniques i les formes i tradicions dels mitjans s'uneixen i donen com a resultat una **nova Gestalt** de mitjans. Això significa que es fusionen per oferir una experiència, diferent de la que es viu amb elements separats (Manovich, 2013).
 
 Per exemple un vídeo de Youtube, l'experiència és una, on els elements comparteixen les mateixes tècniques de software per ser reproduïts en conjunt. O algunes aplicacions de realitat augmentada, com AR Invaders, on a través de la pantalla del mòbil s'augmenta la realitat física. (Adell, 2014).
 
@@ -50,7 +50,7 @@ El webdoc s'ha alçat com el nou referent en l'àmbit del documental interactiu,
 
 Un dels aspectes més vius del webdoc és les peculiaritats del mateix medi, afavorint l'expansió del relat a través de formats diversos que van des del vídeo, la fotografia o l'audio fins a la il·lustració, el disseny gràfic o la literatura. Precisament, la diversitat de continguts és la que permet a l'usuari decidir l'ordre del relat durant el visionament i escollir el grau de profunditat en l'assumpte segons els seus propis interessos, provocant una experiència més variada, completa i immersiva que els documentals tradicionals (Jenkins, 2003).
 
-El documental interactiu no es pot analitzar de forma única composta de fotogrames; en els mitjans interactius hi ha noves variables: codi, interfícies, algoritmes i un usuari actiu. Aquestes variables estan connectades de tal forma que s'influeixen entre si. El webdoc és, per tant, una forma fluida, no fixa. És el resultat d'interconnexions que són dinàmiques, en temps real i adaptatives. (Research).
+El documental interactiu no es pot analitzar de forma única composta de fotogrames; en els mitjans interactius hi ha noves variables: codi, interfícies, algoritmes i un usuari actiu. Aquestes variables estan connectades de tal forma que s'influeixen entre si. El webdoc és, per tant, una forma fluida, no fixa. És el resultat d'interconnexions que són dinàmiques, en temps real i adaptatives. (Pimentel i Costa, 2023).
 
 ## Re-descobrint la hibridació: The Biodigital Human
 ![Biodigital Human](https://d8m06gjwz59rp.cloudfront.net/assets/biodigital-multi-device.png)
@@ -69,12 +69,12 @@ En el llibre "El software toma el mando", Manovich menciona que els gràfics com
 
 A més a més, menciona la visualització de dades en 3D com una eina que permet observar un objecte des de qualsevol punt de vista per comprendre la seva estructura. D'aquesta manera Manovich considera que els gràfics 3D poden ser utilitzats per representar i analitzar informació de manera visualment atractiva i comprensible. Per altra banda, la programació web és un element clau en l'evolució dels nous mitjans de comunicació i la cultura contemporània. (Manovich, 2013).
 
- > El nou medi és el "metamedi" de l'ordinador digital, cosa que indica que la programació web i el software són fonamentals per la creació i funcionament dels nous medis.
+ > El nou medi és el "metamedi" de l'ordinador digital, cosa que indica que la programació web i el software són fonamentals per la creació i funcionament dels nous medis (Manovich, 2013).
 
 En relació amb la programació web, la modularitat és un principi important. Els nous medis estan compostos per elements que es poden aïllar i cada part conserva la seva identitat individual. També, l'automatització és un altre aspecte rellevant de la programació web. L'automatització permet realitzar operacions de manera ràpida i organitzada en la creació, manipulació i accés als nous medis (Manovich, 2013).
 
-Els resultats dels processos de la hibridació són una nova estètica i una nova espècie de mitjà que no pot reduir-se a la suma dels mitjans que han intervingut en la seva creació. És el pas cap a una nova constitució dels medis que realment és molt més radical i revolucionària que la cohabitació de diferents tipus de medis. (pdf)
-La hibridació dels medis és un procés que "amenaça" la constitució de cada un dels elements per separat, la web no s'entén igual des de que podem manipular-la més enllà de presentar textos i imatges, així com la interactivitat en la visualització de dades.
+Els resultats dels processos de la hibridació són una nova estètica i una nova espècie de mitjà que no pot reduir-se a la suma dels mitjans que han intervingut en la seva creació. És el pas cap a una nova constitució dels medis que realment és molt més radical i revolucionària que la cohabitació de diferents tipus de medis.
+La hibridació dels medis és un procés que "_amenaça_" la constitució de cada un dels elements per separat, la web no s'entén igual des de que podem manipular-la més enllà de presentar textos i imatges, així com la interactivitat en la visualització de dades.
 
 ## Conclusions
 

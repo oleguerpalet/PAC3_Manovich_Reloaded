@@ -19,7 +19,7 @@ En definitiva, la hibridació és un procés de fusió dels mitjans, una fusió 
 
 La tecnologia digital ha remeiat els mitjans de comunicació antics, des dels processos d'impressió, fins a la comunicació telegràfica. Una web és una remediació del diari en paper, un vídeo digital una remediació del cine i al mateix temps que ho és d'aquest també ho és del teatre, etc. (Adell, 2014).
 
-En la multimèdia, es fa referència a la **combinació** de diferents elements, com text, àudio, vídeo on conviuen de forma conjunta en una presentació interactiva. Normalment, se situen en un pla bidimensional com per exemple la típica pàgina web amb text, un vídeo i algunes imatges. En aquest cas, l'experiència d'usuari és fragmentada. Si es vol llegir el text, no es pot veure el vídeo al mateix temps, ni observar les imatges. (Wikipedia, Adell).
+En la multimèdia, es fa referència a la **combinació** de diferents elements, com text, àudio, vídeo on conviuen de forma conjunta en una presentació interactiva. Normalment, se situen en un pla bidimensional com per exemple la típica pàgina web amb text, un vídeo i algunes imatges. En aquest cas, l'experiència d'usuari és fragmentada. Si es vol llegir el text, no es pot veure el vídeo al mateix temps, ni observar les imatges. (Wikipedia, 2023).
 
 
 > Per tal de reconèixer una **hibridació** s'ha d'identificar un mitjà ja sigui text, hipertext, fotografies, vídeo digital, animació en 2D i 3D, espais navegables en 3D, mapes, informació de localització, etc. que ha passat a funcionar com a component d'altres noves combinacions de mitjans (Manovich, 2013).
@@ -44,7 +44,7 @@ El documental és una representació audiovisual de la realitat fent que els esp
 
 El webdoc es pot definir com un **documental interactiu**, que es difon a través d'internet que se serveix de totes les possibilitats de l'entorn digital i de la web. L'espectador pot optar lliurement per consumir només uns determinats fragments del relat i descartar la resta. O començar per allò que apareix pel final i acabar a l'inici.
 
-> Gifreu apunta a una doble hibridació com la responsable de l'aparició del webdoc: la produida entre l'audiovisual amb la interacció (medi digital interactiu) i entre la informació (continguts) i l'entreteniment (interfície navegable) (Gifreu-Castells, 2014)
+> Gifreu apunta a una doble hibridació com la responsable de l'aparició del webdoc: la produida entre l'audiovisual amb la interacció (medi digital interactiu) i entre la informació (continguts) i l'entreteniment (interfície navegable) (Gifreu, 2014)
 
 El webdoc s'ha alçat com el nou referent en l'àmbit del documental interactiu, caracteritzat per ser una plataforma oberta i accessible en la xarxa, amb un disseny d'interfície on la presentació visual es troba a mig camí entre el videojoc i una pàgina web, on el gènere documental aporta les seves variades modalitats de representació de la realitat, i el mitjà digital, les modalitats de navegació (Gifreu, 2014).
 

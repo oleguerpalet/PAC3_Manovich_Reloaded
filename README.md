@@ -27,7 +27,7 @@ En la multimèdia, es fa referència a la **combinació** de diferents elements,
 
 En els mitjans híbrids, les interfícies, les tècniques i les formes i tradicions dels mitjans s'uneixen i donen com a resultat una **nova Gestalt** de mitjans. Això significa que es fusionen per oferir una experiència, diferent de la que es viu amb elements separats (Manovich, 2013).
 
-Per exemple un vídeo de Youtube, l'experiència és una, on els elements comparteixen les mateixes tècniques de software per ser reproduïts en conjunt. O algunes aplicacions de realitat augmentada, com AR Invaders, on a través de la pantalla del mòbil s'augmenta la realitat física. (Adell, 2014).
+Per exemple un vídeo de **Youtube**, l'experiència és una, on els elements comparteixen les mateixes tècniques de software per ser reproduïts en conjunt. O algunes aplicacions de realitat augmentada, com **AR Invaders**, on a través de la pantalla del mòbil s'augmenta la realitat física. (Adell, 2014).
 
 
 ## Re-descobrint la hibridació: En la brecha

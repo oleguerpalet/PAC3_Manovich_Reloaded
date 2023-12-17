@@ -63,7 +63,7 @@ Els usuaris poden personalitzar la seva experiència creant biblioteques persona
 
 ### Reconeixent la hibridació de medis
 
-Es pot observar la hibridació on a la combinació de diferents tecnologies permet crear una experiència web interactiva i visualment impressionant. En aquest cas, renderitzant gràfics 3D en temps real en un navegador web sense necessitat de complements addicionals. En combina gràfics 3D amb llenguatges de programació web com JavaScript, HTML i CSS dona com ha resultat una experiència web més immersiva i sofisticada.
+Es pot observar la hibridació on a la combinació de diferents tecnologies permet crear una experiència web interactiva i visualment impressionant. En aquest cas, renderitzant gràfics 3D en temps real en un navegador web sense necessitat de complements addicionals. En combina gràfics 3D amb llenguatges de programació web com JavaScript, HTML i CSS dona com ha resultat una experiència web més immersiva i sofisticada (Medium, 2023).
 
 En el llibre "El software toma el mando", Manovich menciona que els gràfics computacionals i l'animació 3D interactiva són mitjans nascuts en l'era digital dels anys 60 i consolidats en els anys 90. Això indica que Manovich reconeix la importància dels gràfics 3D com una forma d'expressió i comunicació en l'àmbit digital (Manovich, 2013).
 
@@ -87,6 +87,8 @@ La hibridació de mitjans té un impacte directe en la forma com s'organitza i e
 Adell, F. (2014). Remediación, multimedia e hibridación de los medios. Recuperat de: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 
 Manovich, Lev (2013). El software toma el mando. New York: Bloomsburry Academic.
+
+Medium (2023). Primeros pasos con WebGL. Recuperat de: https://medium.com/orbit-software/primeros-pasos-con-webgl-f57a2c46809d
 
 Gifreu, A. (2014). El documental interactivo. Evolución, caracterización y perspectiva de desarrollo. UOC.
 

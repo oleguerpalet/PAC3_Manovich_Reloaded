@@ -44,9 +44,9 @@ El documental és una representació audiovisual de la realitat fent que els esp
 
 El webdoc es pot definir com un documental interactiu, que es difon a través d'internet que se serveix de totes les possibilitats de l'entorn digital i de la web. L'espectador pot optar lliurement per consumir només uns determinats fragments del relat i descartar la resta. O començar per allò que apareix pel final i acabar a l'inici.
 
-Gifreu apunta a una doble hibridació com la responsable de l'aparició del webdoc: la produida entre l'audiovisual amb la interacció (medi digital interactiu) i entre la informació (continguts) i l'entreteniment (interfície navegable) (Gifreu-Castells, 2014)
+> Gifreu apunta a una doble hibridació com la responsable de l'aparició del webdoc: la produida entre l'audiovisual amb la interacció (medi digital interactiu) i entre la informació (continguts) i l'entreteniment (interfície navegable) (Gifreu-Castells, 2014)
 
-> El webdoc s'ha alçat com el nou referent en l'àmbit del documental interactiu, caracteritzat per ser una plataforma oberta i accessible en la xarxa, amb un disseny d'interfície on la presentació visual es troba a mig camí entre el videojoc i una pàgina web, on el gènere documental aporta les seves variades modalitats de representació de la realitat, i el mitjà digital, les modalitats de navegació (Gifreu-Castells, 2014).
+El webdoc s'ha alçat com el nou referent en l'àmbit del documental interactiu, caracteritzat per ser una plataforma oberta i accessible en la xarxa, amb un disseny d'interfície on la presentació visual es troba a mig camí entre el videojoc i una pàgina web, on el gènere documental aporta les seves variades modalitats de representació de la realitat, i el mitjà digital, les modalitats de navegació (Gifreu-Castells, 2014).
 
 Un dels aspectes més vius del webdoc és les peculiaritats del mateix medi, afavorint l'expansió del relat a través de formats diversos que van des del vídeo, la fotografia o l'audio fins a la il·lustració, el disseny gràfic o la literatura. Precisament, la diversitat de continguts és la que permet a l'usuari decidir l'ordre del relat durant el visionament i escollir el grau de profunditat en l'assumpte segons els seus propis interessos, provocant una experiència més variada, completa i immersiva que els documentals tradicionals (Jenkins, 2003).
 

@@ -42,7 +42,7 @@ El documental és una representació audiovisual de la realitat fent que els esp
 
 ### Reconeixent la hibridació de medis
 
-El webdoc es pot definir com un documental interactiu, que es difon a través d'internet que se serveix de totes les possibilitats de l'entorn digital i de la web. L'espectador pot optar lliurement per consumir només uns determinats fragments del relat i descartar la resta. O començar per allò que apareix pel final i acabar a l'inici.
+El webdoc es pot definir com un **documental interactiu**, que es difon a través d'internet que se serveix de totes les possibilitats de l'entorn digital i de la web. L'espectador pot optar lliurement per consumir només uns determinats fragments del relat i descartar la resta. O començar per allò que apareix pel final i acabar a l'inici.
 
 > Gifreu apunta a una doble hibridació com la responsable de l'aparició del webdoc: la produida entre l'audiovisual amb la interacció (medi digital interactiu) i entre la informació (continguts) i l'entreteniment (interfície navegable) (Gifreu-Castells, 2014)
 

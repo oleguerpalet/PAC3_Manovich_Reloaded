@@ -46,7 +46,7 @@ El webdoc es pot definir com un **documental interactiu**, que es difon a travé
 
 > Gifreu apunta a una doble hibridació com la responsable de l'aparició del webdoc: la produida entre l'audiovisual amb la interacció (medi digital interactiu) i entre la informació (continguts) i l'entreteniment (interfície navegable) (Gifreu-Castells, 2014)
 
-El webdoc s'ha alçat com el nou referent en l'àmbit del documental interactiu, caracteritzat per ser una plataforma oberta i accessible en la xarxa, amb un disseny d'interfície on la presentació visual es troba a mig camí entre el videojoc i una pàgina web, on el gènere documental aporta les seves variades modalitats de representació de la realitat, i el mitjà digital, les modalitats de navegació (Gifreu-Castells, 2014).
+El webdoc s'ha alçat com el nou referent en l'àmbit del documental interactiu, caracteritzat per ser una plataforma oberta i accessible en la xarxa, amb un disseny d'interfície on la presentació visual es troba a mig camí entre el videojoc i una pàgina web, on el gènere documental aporta les seves variades modalitats de representació de la realitat, i el mitjà digital, les modalitats de navegació (Gifreu, 2014).
 
 Un dels aspectes més vius del webdoc és les peculiaritats del mateix medi, afavorint l'expansió del relat a través de formats diversos que van des del vídeo, la fotografia o l'audio fins a la il·lustració, el disseny gràfic o la literatura. Precisament, la diversitat de continguts és la que permet a l'usuari decidir l'ordre del relat durant el visionament i escollir el grau de profunditat en l'assumpte segons els seus propis interessos, provocant una experiència més variada, completa i immersiva que els documentals tradicionals (Jenkins, 2003).
 
@@ -73,9 +73,7 @@ A més a més, menciona la visualització de dades en 3D com una eina que permet
 
 En relació amb la programació web, la modularitat és un principi important. Els nous medis estan compostos per elements que es poden aïllar i cada part conserva la seva identitat individual. També, l'automatització és un altre aspecte rellevant de la programació web. L'automatització permet realitzar operacions de manera ràpida i organitzada en la creació, manipulació i accés als nous medis (Manovich, 2013).
 
-Els resultats dels processos de la hibridació són una nova estètica i una nova espècie de mitjà que no pot reduir-se a la suma dels mitjans que han intervingut en la seva creació. És el pas cap a una nova constitució dels medis que realment és molt més radical i revolucionària que la cohabitació de diferents tipus de medis.
-La hibridació dels medis és un procés que "_amenaça_" la constitució de cada un dels elements per separat, la web no s'entén igual des de que podem manipular-la més enllà de presentar textos i imatges, així com la interactivitat en la visualització de dades (Manovich, 2013).
-
+Els resultats dels processos de la hibridació són una nova estètica i una nova espècie de mitjà que no pot reduir-se a la suma dels mitjans que han intervingut en la seva creació. És el pas cap a una nova constitució dels medis que realment és molt més radical i revolucionària que la cohabitació de diferents tipus de medis. La hibridació dels medis és un procés que "_amenaça_" la constitució de cada un dels elements per separat, la web no s'entén igual des de que podem manipular-la més enllà de presentar textos i imatges, així com la interactivitat en la visualització de dades (Manovich, 2013).
 ## Conclusions
 
 Aquest procés de fusió i integració de diferents mitjans ha tingut un impacte significatiu en la nostra societat i cultura. D'aquesta manera ha portat a una major interacció i convergència entre diferents formats de mitjans donat lloc a experiències més riques i immersives pels usuaris, ja que poden interactuar amb el contingut de formes noves i emocionants.
@@ -90,7 +88,7 @@ Adell, F. (2014). Remediación, multimedia e hibridación de los medios. Recuper
 
 Manovich, Lev (2013). El software toma el mando. New York: Bloomsburry Academic.
 
-Gifreu-Castells, A. (2014). El documental interactivo. Evolución, caracterización y perspectiva de desarrollo. UOC.
+Gifreu, A. (2014). El documental interactivo. Evolución, caracterización y perspectiva de desarrollo. UOC.
 
 Jennkins (2013). Transmedia. La creación de contenido y valor en una cultura en red. Revista estudios de polílitcias públicas. Recuperat de: https://revistaestudiospoliticaspublicas.uchile.cl/index.php/REPP/article/view/55358
 

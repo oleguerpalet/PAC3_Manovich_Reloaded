@@ -104,5 +104,5 @@ La hibridació de mitjans té un impacte directe en la forma com s'organitza i e
 
 ---
 <html><p align="center">
-Llicència: Material Creative Commons desenvolupat sota la llicència CC BY-SA 4.0 |
+ CC BY-SA 4.0
 

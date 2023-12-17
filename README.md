@@ -33,7 +33,8 @@ Per exemple un vídeo de **Youtube**, l'experiència és una, on els elements co
 ## Re-descobrint la hibridació: En la brecha
 
 ![En la brecha](https://lab.rtve.es/webdocs/brecha/img/social/home.jpg)
-[En la brecha](https://lab.rtve.es/webdocs/brecha/home/)
+<html><p align="center">
+Enllaç: [En la brecha](https://lab.rtve.es/webdocs/brecha/home/)
 
 ### Què és?
 
@@ -55,7 +56,8 @@ El documental interactiu no es pot analitzar de forma única composta de fotogra
 
 ## Re-descobrint la hibridació: The Biodigital Human
 ![Biodigital Human](https://d8m06gjwz59rp.cloudfront.net/assets/biodigital-multi-device.png)
-[The Biodigital Human](https://www.biodigital.com/)
+<html><p align="center">
+Enllaç: [The Biodigital Human](https://www.biodigital.com/)
 
 ### Què és?
 

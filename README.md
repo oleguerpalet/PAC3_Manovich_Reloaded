@@ -58,8 +58,7 @@ El documental interactiu no es pot analitzar de forma única composta de fotogra
 ## Re-descobrint la hibridació: The Biodigital Human
 ![Biodigital Human](https://d8m06gjwz59rp.cloudfront.net/assets/biodigital-multi-device.png)
 <html><p align="center">
-<b>Enllaç:</b>
- <a href="https://www.biodigital.com/">The Biodigital Human</a>
+<b>Enllaç:</b> <a href="https://www.biodigital.com/">Biodigital Human</a>
 
 ### Què és?
 

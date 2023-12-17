@@ -102,3 +102,6 @@ La hibridació de mitjans té un impacte directe en la forma com s'organitza i e
 
 - Pimentel Guimarães, L., Costa Valente, A. (2023) WEBDOCUMENTAL: UN ESPACIO AUDIOVISUAL DE NARRATIVAS INTERACTIVAS. Recuperat de: https://www.researchgate.net/publication/375700815_WEBDOCUMENTAL_UN_ESPACIO_AUDIOVISUAL_DE_NARRATIVAS_INTERACTIVAS
 
+---
+Llicència: Material Creative Commons desenvolupat sota la llicència CC BY-SA 4.0
+

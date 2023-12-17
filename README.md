@@ -74,9 +74,15 @@ A més a més, menciona la visualització de dades en 3D com una eina que permet
 En relació amb la programació web, la modularitat és un principi important. Els nous medis estan compostos per elements que es poden aïllar i cada part conserva la seva identitat individual. També, l'automatització és un altre aspecte rellevant de la programació web. L'automatització permet realitzar operacions de manera ràpida i organitzada en la creació, manipulació i accés als nous medis (Manovich, 2013).
 
 Els resultats dels processos de la hibridació són una nova estètica i una nova espècie de mitjà que no pot reduir-se a la suma dels mitjans que han intervingut en la seva creació. És el pas cap a una nova constitució dels medis que realment és molt més radical i revolucionària que la cohabitació de diferents tipus de medis.
-La hibridació dels medis és un procés que "_amenaça_" la constitució de cada un dels elements per separat, la web no s'entén igual des de que podem manipular-la més enllà de presentar textos i imatges, així com la interactivitat en la visualització de dades.
+La hibridació dels medis és un procés que "_amenaça_" la constitució de cada un dels elements per separat, la web no s'entén igual des de que podem manipular-la més enllà de presentar textos i imatges, així com la interactivitat en la visualització de dades (Manovich, 2013).
 
 ## Conclusions
+
+Aquest procés de fusió i integració de diferents mitjans ha tingut un impacte significatiu en la nostra societat i cultura. D'aquesta manera ha portat a una major interacció i convergència entre diferents formats de mitjans donat lloc a experiències més riques i immersives pels usuaris, ja que poden interactuar amb el contingut de formes noves i emocionants.
+
+A més a més, estem vivint una transformació en la forma com consumim i produïm contingut digital. Ara, la presentació de la informació no es limita a textos i imatges estàtiques, sinó que inclou elements com el vídeo, àudio, interactivitat i visualització de dades.
+
+La hibridació de mitjans té un impacte directe en la forma com s'organitza i es presenta la informació. Per tant, amb la integració dels diferents mitjans, és possible crear narratives més complexes i multidimensionals afavorint una comprensió més profunda i contextualitzada de la informació, així com fomentar la creativitat i participació activa dels usuaris. 
 
 ## Bibliografia
 

@@ -6,6 +6,7 @@ Autor: Oleguer Palet Farrés
 Data: 15/12/2013
 
 ![Cultura Digital](https://img.freepik.com/premium-photo/abstract-highly-detailed-background-with-human-creativity-imagination_1004780-1237.jpg)
+![image](https://github.com/oleguerpalet/PAC3_Manovich_Reloaded/assets/153848203/b888a7ec-87ee-4b0c-b4fd-de9365be2af7)
 
 
 ## Plantejament

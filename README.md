@@ -86,19 +86,19 @@ La hibridació de mitjans té un impacte directe en la forma com s'organitza i e
 
 ## Bibliografia
 
-Adell, F. (2014). Remediación, multimedia e hibridación de los medios. Recuperat de: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+- Adell, F. (2014). Remediación, multimedia e hibridación de los medios. Recuperat de: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 
-Manovich, Lev (2013). El software toma el mando. New York: Bloomsburry Academic.
+- Manovich, Lev (2013). El software toma el mando. New York: Bloomsburry Academic.
 
-Medium (2023). Primeros pasos con WebGL. Recuperat de: https://medium.com/orbit-software/primeros-pasos-con-webgl-f57a2c46809d
+- Medium (2023). Primeros pasos con WebGL. Recuperat de: https://medium.com/orbit-software/primeros-pasos-con-webgl-f57a2c46809d
 
-Gifreu, A. (2014). El documental interactivo. Evolución, caracterización y perspectiva de desarrollo. UOC.
+- Gifreu, A. (2014). El documental interactivo. Evolución, caracterización y perspectiva de desarrollo. UOC.
 
-Jennkins (2013). Transmedia. La creación de contenido y valor en una cultura en red. Revista estudios de polílitcias públicas. Recuperat de: https://revistaestudiospoliticaspublicas.uchile.cl/index.php/REPP/article/view/55358
+- Jennkins (2013). Transmedia. La creación de contenido y valor en una cultura en red. Revista estudios de polílitcias públicas. Recuperat de: https://revistaestudiospoliticaspublicas.uchile.cl/index.php/REPP/article/view/55358
 
-Jódar Marín, J., De la Torre Espinosa, M. (2023). Diseño, realización y postproducción de webdoc. Revista Mediterránea de Comunicación (RMC). Recuperat de: https://rua.ua.es/dspace/bitstream/10045/135617/1/ReMedCom_14_02_10_ES.pdf
+- Jódar Marín, J., De la Torre Espinosa, M. (2023). Diseño, realización y postproducción de webdoc. Revista Mediterránea de Comunicación (RMC). Recuperat de: https://rua.ua.es/dspace/bitstream/10045/135617/1/ReMedCom_14_02_10_ES.pdf
 
-Wikipedia (2023). Nuevos medios. Recuperat de: https://es.wikipedia.org/wiki/Nuevos_medios
+- Wikipedia (2023). Nuevos medios. Recuperat de: https://es.wikipedia.org/wiki/Nuevos_medios
 
-Pimentel Guimarães, L., Costa Valente, A. (2023) WEBDOCUMENTAL: UN ESPACIO AUDIOVISUAL DE NARRATIVAS INTERACTIVAS. Recuperat de: https://www.researchgate.net/publication/375700815_WEBDOCUMENTAL_UN_ESPACIO_AUDIOVISUAL_DE_NARRATIVAS_INTERACTIVAS
+- Pimentel Guimarães, L., Costa Valente, A. (2023) WEBDOCUMENTAL: UN ESPACIO AUDIOVISUAL DE NARRATIVAS INTERACTIVAS. Recuperat de: https://www.researchgate.net/publication/375700815_WEBDOCUMENTAL_UN_ESPACIO_AUDIOVISUAL_DE_NARRATIVAS_INTERACTIVAS
 

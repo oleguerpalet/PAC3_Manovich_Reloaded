@@ -76,3 +76,14 @@ En relació amb la programació web, la modularitat és un principi important. E
 Els resultats dels processos de la hibridació són una nova estètica i una nova espècie de mitjà que no pot reduir-se a la suma dels mitjans que han intervingut en la seva creació. És el pas cap a una nova constitució dels medis que realment és molt més radical i revolucionària que la cohabitació de diferents tipus de medis. (pdf)
 La hibridació dels medis és un procés que "amenaça" la constitució de cada un dels elements per separat, la web no s'entén igual des de que podem manipular-la més enllà de presentar textos i imatges, així com la interactivitat en la visualització de dades.
 
+## Conclusions
+
+## Bibliografia
+
+Adell, F. (2014). Remediación, multimedia e hibridación de los medios. Recuperat de: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+
+Manovich, Lev (2013). El software toma el mando. New York: Bloomsburry Academic.
+
+Wikipedia (2023). Nuevos medios. Recuperat de: https://es.wikipedia.org/wiki/Nuevos_medios
+
+Jódar Marín, J., De la Torre Espinosa, M. (2023). Diseño, realización y postproducción de webdoc. Revista Mediterránea de Comunicación (RMC). Recuperat de: https://rua.ua.es/dspace/bitstream/10045/135617/1/ReMedCom_14_02_10_ES.pdf

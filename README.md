@@ -34,8 +34,8 @@ Per exemple un vídeo de **Youtube**, l'experiència és una, on els elements co
 
 ![En la brecha](https://lab.rtve.es/webdocs/brecha/img/social/home.jpg)
 <html><p align="center">
-<b>Enllaç:</b>  aplicacións hibrides<br>
- <a href="[https://www.magicplan.app/](https://lab.rtve.es/webdocs/brecha/home/)">En la brecha</a>
+<b>Enllaç:</b>
+ <a href="https://lab.rtve.es/webdocs/brecha/home/">En la brecha</a>
 
 ### Què és?
 

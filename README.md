@@ -8,6 +8,9 @@ Data: 15/12/2013
  
 ![Cultura digital](https://github.com/oleguerpalet/PAC3_Manovich_Reloaded/assets/153848203/b888a7ec-87ee-4b0c-b4fd-de9365be2af7)
 
+![image](https://github.com/oleguerpalet/PAC3_Manovich_Reloaded/assets/153848203/2e61a398-cc56-46b8-aa24-2d25fdf8e588)
+
+
 
 ## Plantejament
 ### Què és la hibridació de mitjans?
